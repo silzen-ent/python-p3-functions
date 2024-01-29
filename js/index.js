@@ -1,3 +1,10 @@
+// function myFunction(param){
+//   console.log("Runing myFunction");
+//   return param + 1; 
+// }
+
+
+
 /*
   You should be able to call this function with no arguments and see its output in the terminal:
   greetProgrammer();
